@@ -4,22 +4,31 @@ body {
 }
 
 .main {
-	background-color: black;
-	color: white;
-	padding: 4px;
+	width: 800px;
+	height: 1000px;
 	float: left;
-	width: 700px;
+	padding: 10px;
 }
 
 .title {
+	text-align: center;
 	background-color: #00FFFF;
+	padding: 5px;
 }
 
 #nav {
+	line-height:30px;
 	background-color: #FFFFCC;
-	height: 446px;
+	height: 1000px;
 	width: 100px;
 	float: left;
 	padding: 5px;
 }
 
+#footer {
+	background-color: orange;
+	color: white;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+}
