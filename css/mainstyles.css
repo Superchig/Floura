@@ -6,10 +6,20 @@ body {
 .main {
 	background-color: black;
 	color: white;
-	margin: 20px;
-	padding: 20px;
+	padding: 4px;
+	float: left;
+	width: 700px;
 }
 
 .title {
 	background-color: #00FFFF;
 }
+
+#nav {
+	background-color: #FFFFCC;
+	height: 446px;
+	width: 100px;
+	float: left;
+	padding: 5px;
+}
+
