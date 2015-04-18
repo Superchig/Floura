@@ -1,5 +1,4 @@
 body {
-
   background-color: #33CCFF;
 	font-family: Arvo;
 }
@@ -38,3 +37,7 @@ body {
 	font-size: 8pt;
 }
 
+@font-face{
+	font-family: EMonaco;
+	src: url(../assets/fonts/MONACO.TTF);
+}
